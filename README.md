@@ -1,6 +1,12 @@
 # Covid19detector : Detecting COVID-19 from X-Ray 😮
 
-Using [Teachable Machine](https://teachablemachine.withgoogle.com/) & Flutter
+![Covid19Dector via Xray made with Flutter theindianappguy github](https://user-images.githubusercontent.com/55942632/80455297-19ff4880-8949-11ea-9b9d-8c8aa9ce3fb1.png)
+
+- [x] Android
+- [ ] IOS
+- [ ] Web
+
+Made with [Teachable Machine](https://teachablemachine.withgoogle.com/) & Flutter
 
 Covid X-Ray Image Dataset - https://github.com/ieee8023/covid-che... for positive cases.
 
@@ -23,6 +29,25 @@ flutter run
 ```
 
 Try Android APK : 
+
+### Special Thanks 
+To [Prateek](https://www.linkedin.com/in/prateek-narang-0108b39a/) Bhaiay from Coding Blocks [Source](https://www.youtube.com/watch?v=nHQDDAAzIsI)
+
+### License
+
+    Copyright 2020 Sanskar Tiwari
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
 
 ## Getting Started
