@@ -2,6 +2,8 @@
 
 ![Covid19Dector via Xray made with Flutter theindianappguy github](https://user-images.githubusercontent.com/55942632/80455297-19ff4880-8949-11ea-9b9d-8c8aa9ce3fb1.png)
 
+App which can detect COVID via X-Ray image, just use some sample image available in the listed links.
+
 - [x] Android
 - [ ] IOS
 - [ ] Web
