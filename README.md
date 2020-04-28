@@ -10,9 +10,9 @@ App can detect COVID via X-Ray image, just use some sample image available in th
 
 Made with [Teachable Machine](https://teachablemachine.withgoogle.com/) & Flutter
 
-Covid X-Ray Image Dataset - https://github.com/ieee8023/covid-che... for positive cases.
+Covid X-Ray Image Dataset - https://github.com/ieee8023/covid-chestxray-dataset for positive cases.
 
-Kaggle X-Ray Chest Images - https://www.kaggle.com/paultimothymoo... 
+Kaggle X-Ray Chest Images - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
 for negative cases
 
 ## Learn How to Build this : 
