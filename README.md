@@ -1,6 +1,29 @@
-# covid19detector
+# Covid19detector : Detecting COVID-19 from X-Ray 😮
 
-A new Flutter application.
+Using [Teachable Machine](https://teachablemachine.withgoogle.com/) & Flutter
+
+Covid X-Ray Image Dataset - https://github.com/ieee8023/covid-che... for positive cases.
+
+Kaggle X-Ray Chest Images - https://www.kaggle.com/paultimothymoo... 
+for negative cases
+
+## Learn How to Build this : 
+
+[Build a Cat-Dog Detector App with Flutter & Tensorflow | Flutter Tutorial For Beginners](https://youtu.be/-5kUv47xKy0)
+
+Installation
+
+```
+flutter pub get
+```
+Usage 
+
+```
+flutter run
+```
+
+Try Android APK : 
+
 
 ## Getting Started
 
