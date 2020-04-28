@@ -40,6 +40,14 @@ Try Android APK : [Download From Google Drive](https://drive.google.com/file/d/1
 ### Special Thanks 
 To [Prateek](https://www.linkedin.com/in/prateek-narang-0108b39a/) Bhaiay from Coding Blocks [Source](https://www.youtube.com/watch?v=nHQDDAAzIsI)
 
+### Created & Maintained By
+
+[Sanskar Tiwari](https://github.com/theindianappguy) ([@theindianappguy](https://twitter.com/Theindianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> - [PayPal](https://paypal.me/iamsanskartiwari)
+
 ### License
 
     Copyright 2020 Sanskar Tiwari
